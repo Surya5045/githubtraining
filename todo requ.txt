@@ -9,3 +9,6 @@ image
 button
 paragraph
 all data
+
+change image 
+change button
