@@ -5,3 +5,7 @@ register page
 dashboard page
 complete todo data 
 active todo data
+image 
+button
+paragraph
+all data
